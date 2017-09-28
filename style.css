@@ -1,0 +1,26 @@
+.container img{
+	max-width: 80%;
+	display: block;
+	margin: auto;
+}
+
+#image-box{
+	text-align: center;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+.chosen-option{
+	padding: 5px 0 5px 10px;
+    font-size: 0.8rem;
+}
+
+button {
+	margin-top: 20px;
+}
+
+.custom-select{
+	width: 100%;
+}
